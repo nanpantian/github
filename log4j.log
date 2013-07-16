@@ -1,0 +1,6 @@
+2013-07-16 18:09:59 TRACE App:21 - ----------
+Trace Message!
+2013-07-16 18:09:59 DEBUG App:23 - Debug Message!
+2013-07-16 18:09:59 INFO  App:25 - Info Message!
+2013-07-16 18:09:59 WARN  App:26 - Warn Message!
+2013-07-16 18:09:59 ERROR App:27 - Error Message!
